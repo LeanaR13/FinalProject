@@ -1,0 +1,39 @@
+        * {
+        font-family: Arial, Verdana, sans-serif;
+        color: #371116;
+        box-sizing: border-box;}
+        
+            .navbar{
+                background-color: #d0e1e9;
+            }
+}
+
+
+
+        header h1 {Leana Rampersad
+        color: white; }
+
+        article h4 {
+        text-align: center;}
+       
+
+        section h3 {
+            font-weight: 
+        }
+
+        article img {
+        max-width: 100%;
+        height:auto;}
+
+        nav, #feature, footer {
+        margin: 1%; }
+
+
+        nav li {
+        display: inline;
+		padding: 0.5em;
+        color: rgb(86, 2, 37);}
+
+        .row-color-1 {
+            background-color:rgb(215, 239, 250);
+        }
